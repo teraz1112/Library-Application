@@ -16,6 +16,11 @@ ISBNコード(ex. 0439139597)を入力して検索ボタンを押すと、ヒッ
 ## Pages URL
 - https://teraz1112.github.io/Library-Application/
 
+## 学習内容
+- JSON
+- API
+- サーバ
+  
 ## 使用技術
 <table>
 <tr>
